@@ -25,7 +25,7 @@
 
 
 
-### Day 3: October 25, 2017 Tuesday
+### Day 3: October 25, 2017 Wednesday
 
 **Today's Progress**:Front-end exercises on FreeCodeCamp. worked on Bootstrap framework.
 
@@ -34,3 +34,14 @@
 **Link(s) to work**
 1. [Call out optional actions with button info](https://www.freecodecamp.org/challenges/call-out-optional-actions-with-button-info)
 2. [Style text inputs as form controls](https://www.freecodecamp.org/challenges/style-text-inputs-as-form-controls)
+
+
+### Day 4: October 26, 2017 Thursday
+
+**Today's Progress**:Front-end exercises on FreeCodeCamp. worked on Bootstrap framework and played basics of jQuery
+
+**Thoughts** Plotted with jQuery playground.
+
+**Link(s) to work**
+1. [Line up form elements responsively with bootstrap](https://www.freecodecamp.org/challenges/line-up-form-elements-responsively-with-bootstrap)
+2. [Use comments to clarify code](https://www.freecodecamp.org/challenges/use-comments-to-clarify-code)
