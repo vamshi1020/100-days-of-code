@@ -45,3 +45,14 @@
 **Link(s) to work**
 1. [Line up form elements responsively with bootstrap](https://www.freecodecamp.org/challenges/line-up-form-elements-responsively-with-bootstrap)
 2. [Use comments to clarify code](https://www.freecodecamp.org/challenges/use-comments-to-clarify-code)
+
+
+### Day 5: October 27, 2017 Friday
+
+**Today's Progress**:Front-end exercises on FreeCodeCamp. worked on jQuery basics and completed.
+
+**Thoughts**  It was fun bouncing and shaking elements in a page with jQuery.
+
+**Link(s) to work**
+1. [Learn how script tags and document ready work](https://www.freecodecamp.org/challenges/learn-how-script-tags-and-document-ready-work)
+2. [Use jQuey to modify the entire page](https://www.freecodecamp.org/challenges/use-jquery-to-modify-the-entire-page)
