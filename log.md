@@ -56,3 +56,13 @@
 **Link(s) to work**
 1. [Learn how script tags and document ready work](https://www.freecodecamp.org/challenges/learn-how-script-tags-and-document-ready-work)
 2. [Use jQuey to modify the entire page](https://www.freecodecamp.org/challenges/use-jquery-to-modify-the-entire-page)
+
+
+### Day 6: October 28, 2017 Saturday
+
+**Today's Progress**:Front-end exercises on FreeCodeCamp. Started building Tribute Page.
+
+**Thoughts**  It is hard to start to build a page.
+
+**Link(s) to work**
+1. [Get set for our front-end development projects](https://www.freecodecamp.org/challenges/get-set-for-our-front-end-development-projects)
