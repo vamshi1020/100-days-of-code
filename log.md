@@ -66,3 +66,14 @@
 
 **Link(s) to work**
 1. [Get set for our front-end development projects](https://www.freecodecamp.org/challenges/get-set-for-our-front-end-development-projects)
+
+
+
+### Day 7: October 29, 2017 Sunday
+
+**Today's Progress**:Front-end exercises on FreeCodeCamp. Started building Tribute Page--added thumbanil and background.
+
+**Thoughts**: Researched about HTML, CSS in the prt of building Tribute Page.
+
+**Link(s) to work**
+1. [Codepen Link](https://codepen.io/vamshi1020/pen/GORYex)
