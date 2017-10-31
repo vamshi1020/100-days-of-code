@@ -77,3 +77,14 @@
 
 **Link(s) to work**
 1. [Codepen Link](https://codepen.io/vamshi1020/pen/GORYex)
+
+
+### Day 8: October 30, 2017 Monday
+
+**Today's Progress**:Front-end exercises on FreeCodeCamp. Started building Tribute Page--Heading and body.
+
+**Thoughts**: Researched about bootstrap columns, Grid layouts.
+
+**Link(s) to work**
+1. [Codepen Link](https://codepen.io/vamshi1020/pen/GORYex)
+
