@@ -98,3 +98,14 @@
 **Link(s) to work**
 1. [Codepen Link](https://codepen.io/vamshi1020/pen/GORYex)
 
+
+
+### Day 10 - 11 : November 1, 2017 Wedneday - November 2, 2017 Thursday.
+
+**Today's Progress**:Front-end exercises on FreeCodeCamp. Started working on Portfolio website.
+
+**Thoughts**: Coded for Navigation bar.
+
+**Link(s) to work**
+1. [Portfolio website Codepen.io](https://codepen.io/vamshi1020/pen/jaWpbZ)
+
